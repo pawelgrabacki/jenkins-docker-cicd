@@ -4,7 +4,4 @@ Ci/CD pipeline for a python flask application using Jenkins, Docker, AWS ECR, EC
 
 <!-- marmaid test i guess-->
 
-```mermaid
-flowchart LR
-    Hi["Hi"]
-```
+![](docs/architecture.mmd)
